@@ -1,2 +1,2 @@
 # fastai2_annotated
-Fastai2 notebookes annotated with my comments
+Fastai2 notebooks annotated with my comments
